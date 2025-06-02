@@ -1,4 +1,4 @@
-# Support - Replikz
+# Support - Replik
 
 Bienvenue sur la page de support de l'application **Replik**.
 
